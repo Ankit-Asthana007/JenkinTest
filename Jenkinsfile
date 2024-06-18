@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     tools {
-        gradle 'Gradle 6.8' // Adjust this to your Gradle version
+        gradle 'Gradle 3.3.0'
     }
 
     environment {
